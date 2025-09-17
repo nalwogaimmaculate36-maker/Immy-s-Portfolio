@@ -123,7 +123,6 @@ FROM us_household_income
 
 
 
-
 # These queries find out either there is ALand or AWater or it has 0, or is blank or is null land and more water vice versa. Showing places with either just land or water. 
 
 SELECT ALand, AWater
